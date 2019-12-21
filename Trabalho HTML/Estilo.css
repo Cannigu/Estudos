@@ -1,0 +1,81 @@
+p {
+	font-size:20px;
+	color:blue;
+}
+
+
+div {
+	padding: 10px;
+
+}
+
+.topo {
+	background-color: Silver;
+}
+
+.menu {
+	background-color: yellow;
+
+
+
+      <div class= 'menu'>
+
+          <a href='https://www.youtube.com/channel/UCh7v1laqx7bZodFvIL1Q42g'
+
+            Canal do Youtube
+            </a>
+
+        </div>
+
+}
+
+a, a:visited {
+	color:blue;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.anuncio {
+	background-color: green;
+
+	float:left;
+
+	width: 25%;
+
+	box-sizing: border-box;
+
+
+}
+
+
+
+
+.conteudo {
+	background-color: pink;
+
+	float: right;
+
+	width: 73%;
+
+	box-sizing: border-box
+
+        <div class= 'conteudo'>
+
+        <h1> Gatos são uma ótima companhia</h1>
+
+        <p> Cada vez mais as pessoas estão se apegando as gatos,pois são uma ótima companhia. </p>
+
+        <img src='gato.jpg'>
+
+        </div>
+}
+
+
+
+.rodape {
+	background-color: red;
+	clear: both:
+}
